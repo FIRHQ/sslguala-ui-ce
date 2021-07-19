@@ -1,0 +1,36 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.6",
+    "axios": "^0.21.1",
+    "dayjs": "^1.10.5",
+    "element-plus": "^1.0.2-beta.48",
+    "lodash": "^4.17.21",
+    "postcss": "^8.3.5",
+    "qrcode": "^1.4.4",
+    "querystring": "^0.2.1",
+    "tailwindcss": "^2.2.4",
+    "urijs": "^1.19.6",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.9",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.3",
+    "@vue/compiler-sfc": "^3.0.5",
+    "babel-plugin-component": "^1.1.1",
+    "eslint": "^7.29.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-vue": "^7.11.1",
+    "sass": "^1.35.1",
+    "vite": "^2.3.7",
+    "vite-plugin-style-import": "^1.0.0"
+  }
+}
